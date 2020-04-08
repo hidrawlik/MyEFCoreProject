@@ -1,0 +1,20 @@
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\bin\Debug\DB Requester.exe.config
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\bin\Debug\DB Requester.exe
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\bin\Debug\DB Requester.pdb
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\obj\Debug\DB Requester.csprojAssemblyReference.cache
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\obj\Debug\DB_Requester.MainForm.resources
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\obj\Debug\DB_Requester.Properties.Resources.resources
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\obj\Debug\DB Requester.csproj.GenerateResource.cache
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\obj\Debug\DB Requester.csproj.CoreCompileInputs.cache
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\obj\Debug\DB Requester.exe
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester\obj\Debug\DB Requester.pdb
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\bin\Debug\DB Requester.exe.config
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\bin\Debug\DB Requester.exe
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\bin\Debug\DB Requester.pdb
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\obj\Debug\DB Requester.csprojAssemblyReference.cache
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\obj\Debug\DB_Requester.MainForm.resources
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\obj\Debug\DB_Requester.Properties.Resources.resources
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\obj\Debug\DB Requester.csproj.GenerateResource.cache
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\obj\Debug\DB Requester.csproj.CoreCompileInputs.cache
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\obj\Debug\DB Requester.exe
+F:\Саша навчання\2 Курс\4 семестр\ООП\Answers\Slobodian_Windows_Form_CSharp\DB Requester3\DB Requester\obj\Debug\DB Requester.pdb
