@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.WEBAPI\\BuildingMaterialsStoresWebApi.WEBAPI.csproj": {}
+  },
+  "projects": {
+    "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.DAL\\BuildingMaterialsStoresWebApi.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.DAL\\BuildingMaterialsStoresWebApi.DAL.csproj",
+        "projectName": "BuildingMaterialsStoresWebApi.DAL",
+        "projectPath": "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.DAL\\BuildingMaterialsStoresWebApi.DAL.csproj",
+        "packagesPath": "C:\\Users\\Аня\\.nuget\\packages\\",
+        "outputPath": "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Аня\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.WEBAPI\\BuildingMaterialsStoresWebApi.WEBAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.WEBAPI\\BuildingMaterialsStoresWebApi.WEBAPI.csproj",
+        "projectName": "BuildingMaterialsStoresWebApi.WEBAPI",
+        "projectPath": "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.WEBAPI\\BuildingMaterialsStoresWebApi.WEBAPI.csproj",
+        "packagesPath": "C:\\Users\\Аня\\.nuget\\packages\\",
+        "outputPath": "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.WEBAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Аня\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.DAL\\BuildingMaterialsStoresWebApi.DAL.csproj": {
+                "projectPath": "F:\\Саша навчання\\2 Курс\\4 семестр\\ООП\\Answers\\BuildingMaterialsStores\\BuildingMaterialsStoresWebApi.DAL\\BuildingMaterialsStoresWebApi.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
